@@ -28,10 +28,10 @@ To run in different browser add `--browser_name (selected browser code)` tag aft
 #####Run in Chrome browser
     (my_bdd)C:\user directory\FrameworkExam> `py.test`
 	
-#####Run in Edge browser
+##### Run in Edge browser
 	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name edge`
 	
-#####Run in Firefox browser
+##### Run in Firefox browser
 	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name firefox`
 
 ### Run with Allure Report	
