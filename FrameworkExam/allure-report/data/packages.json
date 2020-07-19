@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests.test_login_checkelements",
+    "children" : [ {
+      "name" : "test_TC001_Verify_all_elements_in_login_page_are_displayed",
+      "uid" : "2b2c023d00690f99",
+      "parentUid" : "0c0831a8efa6338b78fb6e3d8b697b8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594959554679,
+        "stop" : 1594959554929,
+        "duration" : 250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "tests.test_login_checkelements"
+  } ]
+}

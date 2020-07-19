@@ -1,0 +1,89 @@
+{
+  "uid" : "2b2c023d00690f99",
+  "name" : "test_TC001_Verify_all_elements_in_login_page_are_displayed",
+  "fullName" : "tests.test_login_checkelements.Test_LoginPage#test_TC001_Verify_all_elements_in_login_page_are_displayed",
+  "historyId" : "4074e8fa5d066b19b4b7e560ba1b09db",
+  "time" : {
+    "start" : 1594959554679,
+    "stop" : 1594959554929,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1594959545911,
+      "stop" : 1594959554677,
+      "duration" : 8766
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1594959554930,
+      "stop" : 1594959555447,
+      "duration" : 517
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_checkelements"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_LoginPage"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-45C52QUA"
+  }, {
+    "name" : "thread",
+    "value" : "6732-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_login_checkelements"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('setup')" ]
+  },
+  "source" : "2b2c023d00690f99.json",
+  "parameterValues" : [ ]
+}

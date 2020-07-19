@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-45C52QUA",
+    "children" : [ {
+      "name" : "6732-MainThread",
+      "children" : [ {
+        "name" : "test_TC001_Verify_all_elements_in_login_page_are_displayed",
+        "uid" : "2b2c023d00690f99",
+        "parentUid" : "0c5f02bc999bd1072d33cd89a92dfccd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594959554679,
+          "stop" : 1594959554929,
+          "duration" : 250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c5f02bc999bd1072d33cd89a92dfccd"
+    } ],
+    "uid" : "75b073b4231407e40d427c7d17389fe0"
+  } ]
+}

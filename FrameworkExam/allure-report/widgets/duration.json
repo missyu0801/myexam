@@ -1,0 +1,11 @@
+[ {
+  "uid" : "2b2c023d00690f99",
+  "name" : "test_TC001_Verify_all_elements_in_login_page_are_displayed",
+  "time" : {
+    "start" : 1594959554679,
+    "stop" : 1594959554929,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
