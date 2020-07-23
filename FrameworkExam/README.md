@@ -26,7 +26,7 @@ To run in different browser add `--browser_name (selected browser code)` tag aft
    browser code is "edge" and "firefox"
    
 #####Run in Chrome browser
-    (my_bdd)C:\user directory\FrameworkExam> `py.test`
+        (my_bdd)C:\user directory\FrameworkExam> `py.test`
 	
 ##### Run in Edge browser
 	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name edge`
