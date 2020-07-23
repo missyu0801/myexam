@@ -25,7 +25,7 @@ Run tests simply using the `py.test` command, by default test will run in Chrome
 To run in different browser add `--browser_name (selected browser code)` tag after py.test command 
    browser code is "edge" and "firefox"
    
-#####Run in Chrome browser
+##### Run in Chrome browser
         (my_bdd)C:\user directory\FrameworkExam> `py.test`
 	
 ##### Run in Edge browser
