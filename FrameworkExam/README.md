@@ -36,10 +36,13 @@ To run in different browser add `--browser_name (selected browser code)` tag aft
 
 ### Run with Allure Report	
 To view reports in allure add `--alluredir ./Reports` tag after py.test command
-   to automatically view report in your browser enter `allure serve ./Reports` 
+to automatically view report in your browser enter `allure serve ./Reports` 
+. 
+
+###### NOTE:
+Please clean allure report folder  when running new test instance  
    
-   
-###### Run in chrome browser with allure report
+##### Run in chrome browser with allure report
 	(my_bdd)C: user directory\FrameworkExam> `py.test --alluredir ./Reports`
 	(my_bdd)C: user directory\FrameworkExam> `allure serve ./Reports`
    
@@ -50,6 +53,8 @@ To view reports in allure add `--alluredir ./Reports` tag after py.test command
 ##### Run in firefox browser with allure report
 	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name firefox  --alluredir ./Reports`
 	(my_bdd)C:\user directory\FrameworkExam> `allure serve ./Reports`
+
+
 
 ## Limitations
 The following are not included in the automation test, please expect TC failure if the following scenarios are encountered:

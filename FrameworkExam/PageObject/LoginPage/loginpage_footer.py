@@ -53,4 +53,4 @@ class Test_loginpage_footer(BaseClass):
     def Helpdeskn_link_is_opened(self):
         helpdesk = self.driver.find_element_by_xpath((ConfigReader.read_login_elements("Footer", "helpdesk")))
         helpdesk.click()
-        #self.close_tab("https://bank.paysera.com/en/login", "https://support.paysera.com/visitor/index.php?/payseraeng/LiveChat/Chat/Request/_sessionID=/_promptType=chat/_proactive=0/_filterDepartmentID=29/_randomNumber=n5i1laz54zo02b1iw72ptb3kh8492b5i/_fullName=/_email=/")
+        self.close_tab("https://bank.paysera.com/en/login", "https://support.paysera.com/visitor/index.php?/payseraeng/LiveChat/Chat/Request/_sessionID=/_promptType=chat/_proactive=0/_filterDepartmentID=29/_randomNumber=n5i1laz54zo02b1iw72ptb3kh8492b5i/_fullName=/_email=/")

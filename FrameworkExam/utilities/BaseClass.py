@@ -51,8 +51,8 @@ class BaseClass:
                 sleep(2)
                 assert self.driver.current_url == windowopened
                 self.attach_screenshot("window opened")
-                self.driver.close()
                 sleep(2)
+                self.driver.close()
         self.driver.switch_to.window(maintab)
 
     def attach_screenshot(self, value):

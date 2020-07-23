@@ -518,12 +518,47 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
 JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
 JavaScript warning: https://apps.apple.com/assets/vendor-c669ec62bcb19145f899e0f0b73df978.js, line 3009: unreachable code after return statement
-1595174604981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAZEL\\AppData\\Local\\Temp\\rust_mozprofile1wTGA6"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+EL\\AppData\\Local\\Temp\\rust_mozprofile1wTGA6"
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1595174622624	Marionette	INFO	Listening on port 60842
 1595174623118	Marionette	WARN	TLS certificate errors will be ignored for this session
 1595174674391	Marionette	INFO	Stopped listening on port 60842
 [Parent 8592, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595504917557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAZEL\\AppData\\Local\\Temp\\rust_mozprofileK2dV8h"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595504930281	Marionette	INFO	Listening on port 55345
+1595504932823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595505051178	Marionette	INFO	Stopped listening on port 55345
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595505056302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAZEL\\AppData\\Local\\Temp\\rust_mozprofilepx9bba"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595505061635	Marionette	INFO	Listening on port 55643
+1595505061729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/_/boq-play/_/js/k=boq-play.PlayStoreUi.en_US.ekbefpnoy-4.es5.O/am=GQLgpJA/d=1/excm=_b,_tp,appdetailsview/ed=1/dg=0/wt=2/ct=zgms/rs=AB1caFWGnBg9iOArTri9rCi2WBU_10T7uw/m=_b,_tp, line 459: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://apps.apple.com/assets/vendor-c669ec62bcb19145f899e0f0b73df978.js, line 3009: unreachable code after return statement
+[Child 10260, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1595505089738	Marionette	INFO	Stopped listening on port 55643
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595505098336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HAZEL\\AppData\\Local\\Temp\\rust_mozprofilesPDVDe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595505105829	Marionette	INFO	Listening on port 55787
+1595505105964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595505152024	Marionette	INFO	Stopped listening on port 55787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
