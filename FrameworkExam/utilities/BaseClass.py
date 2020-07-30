@@ -8,6 +8,8 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 import allure
 
+from utilities import ConfigReader
+
 
 @pytest.mark.usefixtures("setup")
 class BaseClass:
@@ -25,6 +27,10 @@ class BaseClass:
         else:
             self.attach_screenshot("Bug Detected")
             assert False
+
+    def get_xpath(self, details, xpathvalue):
+        self.driver.find_element_by_xpath((ConfigReader.read_login_elements(details, xpathvalue)))
+
 
     def wait_until_element_is_displayed(self, test):
         WebDriverWait(self.driver, 10).until(ec.presence_of_element_located((By.XPATH, test))).is_displayed()

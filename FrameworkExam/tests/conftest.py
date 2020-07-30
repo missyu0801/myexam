@@ -1,3 +1,6 @@
+from selenium.webdriver import Chrome
+from selenium.webdriver import Firefox
+from selenium.webdriver import Edge
 import pytest
 from selenium import webdriver
 from utilities import ConfigReader
@@ -14,13 +17,17 @@ def setup(request):
     browser_name = request.config.getoption("browser_name")
 
     if browser_name == "chrome":
-        driver = webdriver.Chrome()
+        path = "./Drivers/chromedriver.exe"
+        driver = Chrome(executable_path=path)
 
     elif browser_name == "firefox":
-        driver = webdriver.Firefox()
+        path1 = "./Drivers/geckodriver.exe"
+        driver = webdriver.Firefox(executable_path=path1)
 
     elif browser_name == "edge":
-        driver = webdriver.Edge()
+        path2 = "./Drivers/MicrosoftWebDriver.exe"
+        driver = webdriver.Edge(executable_path=path2)
+
 
     driver.get(ConfigReader.read_config_data("Details", "LoginPage_url"))
     driver.maximize_window()

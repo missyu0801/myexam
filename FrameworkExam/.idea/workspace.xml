@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="be98d191-8913-4f36-94c2-4aa57047fc70" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/LoginPage/loginpage_footer.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/LoginPage/loginpage_footer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/LoginPage/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/LoginPage/test_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utilities/BaseClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/BaseClass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,18 +69,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="501" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595120914216" />
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1595148023861">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1596070902182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595148023861" />
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596070902182" />
     <state x="235" y="109" key="SettingsEditor" timestamp="1595146586577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="235" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595146586577" />
-    <state x="465" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1595381199158">
+    <state x="465" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1596108796121">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595381199158" />
+    <state x="465" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596108796121" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594959255378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

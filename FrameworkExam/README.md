@@ -37,7 +37,6 @@ To run in different browser add `--browser_name (selected browser code)` tag aft
 ### Run with Allure Report	
 To view reports in allure add `--alluredir ./Reports` tag after py.test command
 to automatically view report in your browser enter `allure serve ./Reports` 
-. 
 
 ###### NOTE:
 Please clean allure report folder  when running new test instance  

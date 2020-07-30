@@ -14,6 +14,7 @@ class Test_login_panel(BaseClass):
     @allure.description("Verify user can enter user login data")
     @allure.severity(severity_level="CRITICAL")
     def enter_user_credential(self, value):
+        #self.get_xpath("LoginElements", "usernamelogin").send_keys(value)
         un = self.driver.find_element_by_xpath((ConfigReader.read_login_elements("LoginElements", "usernamelogin")))
         un.send_keys(value)
         self.attach_screenshot("data was entered")
@@ -21,6 +22,7 @@ class Test_login_panel(BaseClass):
     @allure.description("Verify user can enter password data")
     @allure.severity(severity_level="CRITICAL")
     def enter_password(self, value):
+        #self.get_xpath("LoginElements", "password").send_keys(value)
         pw = self.driver.find_element_by_xpath((ConfigReader.read_login_elements("LoginElements", "password")))
         pw.send_keys(value)
         self.attach_screenshot("data was entered")
@@ -28,6 +30,7 @@ class Test_login_panel(BaseClass):
     @allure.description("Verify user can click login button")
     @allure.severity(severity_level="CRITICAL")
     def click_login_button(self):
+        #self.get_xpath("LoginElements", "loginbutton").click()
         loginbutton = self.driver.find_element_by_xpath((ConfigReader.read_login_elements("LoginElements", "loginbutton")))
         loginbutton.click()
 
