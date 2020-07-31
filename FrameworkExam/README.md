@@ -10,13 +10,11 @@ This project requires an up-to-date version of Python 3.
 It also uses virtual environment
 
 To set up this project on your local machine:
-1. Clone it from this GitHub repository.
-2. Run `my_bdd` virtual env by doing the following commands
-3. Open directory in `cmd` (for windows)
-4. Navigate to `C:\user-directory\FrameworkExam\my_bdd\Scripts\`
-and type `activate.bat` to run test in virtual environment
-######Example
-    C:\user directory\FrameworkExam\my_bdd\Scripts>activate.bat
+1. latest Python 3 should be installed in your system
+2. Clone it from this GitHub repository.
+3. Open command prompt and install `requirements.txt` using pip command `$ pip install -r requirements.txt'
+4. Once requirements are installed you can now run the test
+
 
 ## Running Tests
 ### Run Tests Without Report
@@ -26,13 +24,13 @@ To run in different browser add `--browser_name (selected browser code)` tag aft
    browser code is "edge" and "firefox"
    
 ##### Run in Chrome browser
-        (my_bdd)C:\user directory\FrameworkExam> `py.test`
+        C:\user directory\FrameworkExam> `py.test`
 	
 ##### Run in Edge browser
-	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name edge`
+	C:\user directory\FrameworkExam> `py.test --browser_name edge`
 	
 ##### Run in Firefox browser
-	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name firefox`
+	C:\user directory\FrameworkExam> `py.test --browser_name firefox`
 
 ### Run with Allure Report	
 To view reports in allure add `--alluredir ./Reports` tag after py.test command
@@ -42,16 +40,16 @@ to automatically view report in your browser enter `allure serve ./Reports`
 Please clean allure report folder  when running new test instance  
    
 ##### Run in chrome browser with allure report
-	(my_bdd)C: user directory\FrameworkExam> `py.test --alluredir ./Reports`
-	(my_bdd)C: user directory\FrameworkExam> `allure serve ./Reports`
+	C: user directory\FrameworkExam> `py.test --alluredir ./Reports`
+	C: user directory\FrameworkExam> `allure serve ./Reports`
    
 ##### Run in Edge browser with allure report
-	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name edge --alluredir ./Reports`
-	(my_bdd)C:\user directory\FrameworkExam> `allure serve ./Reports`
+	C:\user directory\FrameworkExam> `py.test --browser_name edge --alluredir ./Reports`
+	C:\user directory\FrameworkExam> `allure serve ./Reports`
 	
 ##### Run in firefox browser with allure report
-	(my_bdd)C:\user directory\FrameworkExam> `py.test --browser_name firefox  --alluredir ./Reports`
-	(my_bdd)C:\user directory\FrameworkExam> `allure serve ./Reports`
+	C:\user directory\FrameworkExam> `py.test --browser_name firefox  --alluredir ./Reports`
+	C:\user directory\FrameworkExam> `allure serve ./Reports`
 
 
 
