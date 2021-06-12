@@ -1,5 +1,5 @@
-allure-pytest==2.8.16
-allure-python-commons==2.8.16
+allure-pytest==2.9.43
+allure-python-commons==4.9.43
 atomicwrites==1.4.0
 attrs==19.3.0
 certifi==2020.6.20
