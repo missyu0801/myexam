@@ -2,7 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be98d191-8913-4f36-94c2-4aa57047fc70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Drivers/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/0031dae5-90f0-4513-97bf-b9b0f319126a-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/00f4326a-87ef-49a2-b56b-1c66cd519333-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/06875ed9-ec92-4976-bc44-69a8f8b3314a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/08be54e0-7588-4b6b-90ba-b1067127b512-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/09192ba7-c813-40cf-8119-b92b9f94286c-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/11c223aa-1558-4eb1-9990-01079089f04d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/15bfa95e-6b08-4e92-94bb-f39e30ac469a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/1a01a70d-5e73-4ca0-8ca8-1dbc09de5633-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/1bf1486d-0141-4233-93cd-602a6a18aeda-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/1fa869c3-5ca6-47f5-b95c-0a2bca0c9617-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/2340a184-9718-4a66-82a2-ea09eff06f23-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/23445ff1-da8e-4b9c-82f8-68ecf8fd8513-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/275430bc-7a32-4f99-894a-f84b942cc047-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/2b1af167-a661-4bff-89cc-f53662d0ca56-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/2d80bcf8-8329-46e5-83df-d837c5baa389-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/2eee989a-0c4f-4ae8-a6ae-22e7dc2a297f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/2f5ffd35-01f6-48f3-bf4f-a45038c24bdb-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/309e1976-2645-4de5-b208-2d2ede21dd8a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/34bf226b-3c10-41d4-84d5-41ab6292f845-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/34d8ad16-f8b6-4167-99d3-c0b859119a84-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/35d2bb81-bca1-479c-859e-f21ed8327598-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/37d359b0-3ed3-41e7-8a32-7033bcaf9597-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/39808e4b-c3bb-45e9-ad68-c6acfebcff01-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/3bd321d0-2c26-4483-bfeb-81de9fd2619d-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/46898424-901c-4b7b-8c1b-d8c5757b23a0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/469f0cae-d69e-4a15-9861-2061ca418ee4-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/471318c1-211d-4149-bfa5-78512aee70d3-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/489b4292-1a67-4f82-a4fd-61c72c1cee34-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/49de5979-6578-4ff2-a8ef-6cee93ad5f4d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/4a731ee5-26f4-4b69-984a-77e222fe25c7-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/4b37bc73-3b48-41f7-b4fe-55157602bc3a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5103453e-6d74-48ff-b53d-af023a0bc8d6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/524fa98d-1b24-4fec-93a6-5634c05c7ea7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5766dc88-a6c4-456b-9842-cb7c475b5fc6-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/57a3de78-c9b1-4b63-97bc-a7d2be9f9618-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5b976fb7-1f27-4bb1-98ef-eebec90e5cde-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5c766b9b-a3dc-43a5-a020-e2f7e1dedfef-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5e9d3cbd-ed6a-4077-8c1d-f7725aae9446-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5f2f7bdb-1204-44e4-8fe0-b1341a84fac8-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/5fbdd9d0-81db-4c77-9cce-1949735a4c52-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/6325a8c3-31a3-4c9c-a3be-77265d8ad64c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/675bd8a2-ec09-4ead-920e-95f29fe538b0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/6c0115ca-8f21-4b01-b549-42e750c52892-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/71dc80c7-4019-4271-a0fa-11298f81bf7e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/747c668f-6284-4ff9-9f96-0b1019a57c73-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/74d31644-ac10-445a-b2de-9aff80a8d31f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/76f72f98-3300-4bb3-9dab-0770c5bab9e1-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/81d8203b-c963-4567-b6ff-79ed909ba495-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/85dac7b5-1956-46c8-bc0b-a73a9930614e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8638c6a2-9f27-4ffd-9fee-d15786d94d27-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/89277c72-fd93-4114-b021-dd258a0eca5f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8a0a6b7f-d0b3-4004-880e-877479021c10-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8c3f8ed0-fc84-4e1b-866c-af385b12cea8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8d336d26-11d3-4ff5-94c2-ad2c8379144d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/8f275461-37a8-4446-8ccf-1b7735694591-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9017bd35-53e6-4b4a-a3b9-3f635d5c135d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/926b40a5-cb95-4c6a-b7af-72739024360d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9329786b-4fa2-4f6b-81b6-7c9a9fffd50f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/939d84c1-2b97-4d78-b64b-3f984749400f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/94db80a3-36b8-42e2-a955-428d6d603e11-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9542f2cc-51cb-4bc4-94c4-153ad9423752-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9599ca3c-af85-4a1e-aca8-b36a56d7096c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/95f32879-c444-4c22-a5a9-d5ced47dfcc2-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/98af3ea3-5109-4e90-aa30-d50e29313cce-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9960c204-757f-48af-aa94-3bc5a056e658-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/9ae9979a-b616-476f-8cb0-b577a1ac9c1b-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a0e6d1a4-8d02-4368-afda-0b7e4be67e49-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a141a9c3-d8e6-4d48-9340-c2c6dd41af57-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a190f640-3dfe-4567-81af-aeedcfd6ae6a-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a2bde1a5-9b95-489d-9701-3933534c5242-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a4100a8b-e2a8-4a34-bc5a-de10c66b3cac-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a57b6465-3595-44dd-a1bf-4d56c41d377e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a791c88e-60a9-4af0-b47e-9d82d77a1d57-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a82f9eaa-78bd-4617-b722-3730a1624cd5-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/a8ed1733-0922-4f41-97af-bb3fb46919f2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/aacbe1bb-80a1-43da-9ce0-35696d18cece-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ad93ed13-8171-47f3-a9ce-2a0c0303b19c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ae26c4ee-b423-4250-84ff-787794dab7fd-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/aecf7807-7dbc-4dcd-ad9c-5d5d83f4c994-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/b97aa03f-a2ac-438f-9958-4fe70effdbed-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/b97fa762-f79a-4a59-9973-fa4c90abc951-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/bc08215a-0e5e-474e-846e-3e192c01d89f-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c047b033-71c0-4979-b131-ac40796a3f50-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c0cad54c-3086-4876-a7df-49f5b73f9c63-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c413b816-0b3f-4ffa-9795-e3694284fbc1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c60b8bdb-0965-45c8-9ce3-1bdf6b156d7c-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/c8f20ec3-f2cd-46cf-b3e9-1bdcf25e3b5c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d1c5eddc-54ea-41cd-a11e-b358b8a4313a-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d2abf39f-ee00-4faa-8fd2-e997206b98d1-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d37203f5-fd47-43e8-ae5b-d1f6d188ea60-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d5a436cc-523a-44c4-bd22-00ee99176e52-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d73924f8-8cb6-4abd-8a1d-b8b63c4202b2-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d8381ea8-4889-447c-9739-c79ca4654621-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/d8e32d08-071f-47f1-ae40-1e40f501911c-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/da7f2785-8d59-428e-8acd-157e17e9565f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/de052cba-ad50-40d6-b66f-0f0e8e8b12dd-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/e7eea776-c02a-4599-93df-245f9c022a29-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ebe77c43-5bde-47df-a3ce-7e405bcc2e3d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/eccb2778-fcbd-4fd9-8355-77615b04f943-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/efeb2976-f30f-49c2-b12e-6cfce7404044-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/f0d4e1ef-4460-44ee-bcb5-39f64ba98523-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/f2b733ce-0764-44b8-9408-5188c664b339-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/f800627a-f93b-4323-9587-9b4df53c9b79-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/fa782aa6-8fc6-4285-b50c-71ac06b6144d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/fec4776d-5290-48b7-b23c-ec9b15a41ada-container.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +129,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,6 +148,7 @@
       <recent name="C:\Users\HAZEL\Desktop\FrameworkExam\login_tests" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -54,31 +161,5 @@
       <updated>1594639512224</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="528" y="227" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594710359981">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="528" y="227" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594710359981" />
-    <state x="501" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595120914216">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="501" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595120914216" />
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1596070902182">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596070902182" />
-    <state x="235" y="109" key="SettingsEditor" timestamp="1595146586577">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="235" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595146586577" />
-    <state x="465" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1596108796121">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596108796121" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594959255378">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594959255378" />
   </component>
 </project>
